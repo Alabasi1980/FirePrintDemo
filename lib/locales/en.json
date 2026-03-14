@@ -1,0 +1,41 @@
+{
+  "common": {
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "leaderboard": "Leaderboard",
+    "back": "Back",
+    "save": "Save",
+    "cancel": "Cancel",
+    "level": "Level",
+    "xp": "XP",
+    "streak": "Streak",
+    "wpm": "WPM",
+    "accuracy": "Accuracy"
+  },
+  "dashboard": {
+    "title": "Academy Hallway",
+    "welcome": "Welcome back, Student",
+    "start_warmup": "Start Warmup",
+    "daily_challenge": "Daily Challenge",
+    "career_paths": "Career Paths",
+    "recent_activity": "Recent Activity",
+    "achievements": "Achievements",
+    "league": "League",
+    "honor_roll": "Honor Roll"
+  },
+  "settings": {
+    "title": "Academy Settings",
+    "profile": "Student Profile",
+    "preferences": "Training Preferences",
+    "strict_mode": "Strict Mode",
+    "strict_mode_desc": "Disables backspace during lessons",
+    "sound": "Sound Effects",
+    "sound_desc": "Audio feedback for keystrokes",
+    "keyboard": "Virtual Keyboard",
+    "keyboard_desc": "Show keyboard guide on screen",
+    "language": "Primary Language",
+    "danger_zone": "Danger Zone",
+    "reset_stats": "Reset Key Statistics",
+    "reset_stats_desc": "Clear all data about your weak keys"
+  }
+}
